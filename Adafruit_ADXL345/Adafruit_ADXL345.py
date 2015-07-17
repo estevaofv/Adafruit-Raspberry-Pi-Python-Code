@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#/opt/Drone/motor_test $
 
 # Python library for ADXL345 accelerometer.
 
