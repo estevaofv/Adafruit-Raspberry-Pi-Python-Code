@@ -111,5 +111,9 @@ if __name__ == '__main__':
 
     print '[Accelerometer X, Y, Z]'
     while True:
-        print accel.read()
-        sleep(1) # Output is fun to watch if this is commented out
+        sens = []
+        sens = accel.read()
+        
+        while (sens[1]>20 )
+            print ("Funciona")
+        sleep(0.1) # Output is fun to watch if this is commented out
